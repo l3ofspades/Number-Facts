@@ -56,3 +56,6 @@ function getFourFacts() {
 getSingleFact();
 getMultipleFacts();
 getFourFacts();
+
+// Added some console logs to check if the functions are running 
+// found out that the API wouldnt run with https:// only http:// problem solved
